@@ -58,8 +58,12 @@ In this course, you will:
    - Scroll down and click the **Create repository** button at the bottom of the form.
 3. After your new repository is created, wait about 20 seconds, then refresh the page. Follow the step-by-step instructions in the new repository's README.
 
-## Contributors - Frank Steiler - Technical Account Manager at Docker
 
+## Contributors
+- Alice Cottini - Technical Account Manager at Docker
+- Stuart Minchington - Technical Account Manager at Docker
+- Ben Elrod - Technical Account Manager at Docker
+- Frank Steiler - Technical Account Manager at Docker
 <footer>
 
 <!--
@@ -74,7 +78,3 @@ Get help: [Post in our discussion board](https://github.com/orgs/skills/discussi
 &copy; 2024 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
 </footer>
-## Contributors
-   - Alice Cottini - Technical Account Manager at Docker
-   - Stuart Minchington - Technical Account Manager at Docker
-   - Ben Elrod - Technical Account Manager at Docker
