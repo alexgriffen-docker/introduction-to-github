@@ -67,6 +67,7 @@ In this course, you will:
 - Camila Gonzalez – Technical Account Manager at Docker
 - Maja Chapus - Technical Account Manager at Docker
 
+- Trevor Smith - Technical Account Manager at Docker 
 <footer>
 
 <!--
