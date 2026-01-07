@@ -66,6 +66,7 @@ In this course, you will:
 - Frank Steiler - Technical Account Manager at Docker
 - Camila Gonzalez – Technical Account Manager at Docker
 - Trevor Smith - Technical Account Manager at Docker 
+- Tharinda Basnayake - Technical Account Manager at Docker
 <footer>
 
 <!--
