@@ -65,6 +65,8 @@ In this course, you will:
 - Ben Elrod - Technical Account Manager at Docker
 - Frank Steiler - Technical Account Manager at Docker
 - Camila Gonzalez – Technical Account Manager at Docker
+- Maja Chapus - Technical Account Manager at Docker
+
 - Trevor Smith - Technical Account Manager at Docker 
 <footer>
 
