@@ -69,6 +69,7 @@ In this course, you will:
 
 - Trevor Smith - Technical Account Manager at Docker 
 - Tharinda Basnayake - Technical Account Manager at Docker
+- Edward Chik - Technical Account Manager at Docker
 <footer>
 
 <!--
