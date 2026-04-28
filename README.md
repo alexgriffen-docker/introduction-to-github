@@ -72,6 +72,7 @@ In this course, you will:
 - Jeremy Lyons - Technical Account Manager at Docker
 - Edward Chik - Technical Account Manager at Docker
 - Mushthaq Rumy - Technical Account Manager at Docker
+- Ranti Familusi - Principal Solutions Architect at Docker
 <footer>
 
 <!--
