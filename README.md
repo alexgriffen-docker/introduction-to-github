@@ -60,6 +60,7 @@ In this course, you will:
 
 
 ## Contributors
+- Ricardo Leite - Technical Account Manager at Docker
 - Alice Cottini - Technical Account Manager at Docker
 - Stuart Minchington - Technical Account Manager at Docker
 - Ben Elrod - Technical Account Manager at Docker
