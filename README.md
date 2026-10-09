@@ -73,6 +73,7 @@ In this course, you will:
 - Edward Chik - Technical Account Manager at Docker
 - Mushthaq Rumy - Technical Account Manager at Docker
 - Ranti Familusi - Principal Solutions Architect at Docker
+- José Salvador - Customer Experience Engineer at Docker
 <footer>
 
 <!--
